@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AirBar - Mobile User Client - Android.iml" filepath="$PROJECT_DIR$/AirBar - Mobile User Client - Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AirBar---Mobile-User-Client---Android.iml" filepath="$PROJECT_DIR$/AirBar---Mobile-User-Client---Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.airbar.mobile_user_client.android.domain_model/com.airbar.mobile_user_client.android.domain_model.iml" filepath="$PROJECT_DIR$/com.airbar.mobile_user_client.android.domain_model/com.airbar.mobile_user_client.android.domain_model.iml" />
     </modules>
   </component>
 </project>

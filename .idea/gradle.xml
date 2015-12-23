@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/com.airbar.mobile_user_client.android.domain_model" />
           </set>
         </option>
       </GradleProjectSettings>

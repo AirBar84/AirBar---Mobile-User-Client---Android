@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.brian.airbar_mobileuserclient_android"
+        applicationId "com.airbar.mobile_user_client.android"
         minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
