@@ -1,0 +1,8 @@
+Maybe call this elements/element....
+
+Element, a core/root type similiar to Event, that has some shared properties and, more
+importantly, has Record Modification Tracking...
+
+RMT might not be a big deal on the Android Mobile Client but, I wanted to capture it here.
+It will allow us to show account history and, really all change history for each Element
+in the system.
